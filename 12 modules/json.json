@@ -1,0 +1,92 @@
+[
+    {
+        "serviceId": 1,
+        "developerId": 1,
+        "icon": "bi bi-apple",
+        "serviceName": "iOS App Development"
+    },
+    {
+        "serviceId": 2,
+        "developerId": 2,
+        "icon": "bi bi-android2",
+        "serviceName": "Android App Development"
+    },
+    {
+        "serviceId": 3,
+        "developerId": 3,
+        "icon": "bx bxl-flutter",
+        "serviceName": "Flutter App Development"
+    },
+    {
+        "serviceId": 4,
+        "developerId": 4,
+        "icon": "bx bxl-react",
+        "serviceName": "React Native App Development"
+    },
+    {
+        "serviceId": 5,
+        "developerId": 5,
+        "icon": "bx bxl-angular",
+        "serviceName": "Angular Js Development"
+    },
+    {
+        "serviceId": 6,
+        "developerId": 6,
+        "icon": "bx bxl-react",
+        "serviceName": "React Js Development"
+    },
+    {
+        "serviceId": 7,
+        "developerId": 7,
+        "icon": "bx bxl-vuejs",
+        "serviceName": "Vue Js Development"
+    },
+    {
+        "serviceId": 8,
+        "developerId": 8,
+        "icon": "bx bxl-nodejs",
+        "serviceName": "Node Js Development"
+    },
+    {
+        "serviceId": 9,
+        "developerId": 9,
+        "icon": "bx bxl-python",
+        "serviceName": "Python Development"
+    },
+    {
+        "serviceId": 10,
+        "developerId": 10,
+        "icon": "ri-netflix-line",
+        "serviceName": "ASP.NET Development"
+    },
+    {
+        "serviceId": 11,
+        "developerId": 11,
+        "icon": "bx bxl-java",
+        "serviceName": "Java Development"
+    },
+    {
+        "serviceId": 12,
+        "developerId": 12,
+        "icon": "bx bxs-hot",
+        "serviceName": "Code Igniter Development"
+    },
+    {
+        "serviceId": 13,
+        "developerId": 13,
+        "icon": "bi bi-wordpress",
+        "serviceName": "Wordpress"
+    },
+    {
+        "serviceId": 14,
+        "developerId": 14,
+        "icon": "bx bxl-magento",
+        "serviceName": "Magento"
+    },
+    {
+        "serviceId": 15,
+        "developerId": 15,
+        "icon": "bx bxl-shopify",
+        "serviceName": "Shopify"
+    }
+]
